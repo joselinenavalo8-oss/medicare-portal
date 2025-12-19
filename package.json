@@ -17,6 +17,8 @@
     "format": "prettier -w dist/index.d.ts"
   },
   "devDependencies": {
+     "vite": "^4.0.0",
+    "@vitejs/plugin-react": "^3.0.0",
     "prettier": "^2.2.1"
   }
 }
